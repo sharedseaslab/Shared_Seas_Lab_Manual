@@ -33,12 +33,10 @@ website:
     contents:
       - href: index.qmd
         text: Home
+      - href: content/Handbook.qmd
+        text: Lab Handbook
       - href: content/Data_repositories.qmd
         text: Data sources
-      - href: content/Hardware.qmd
-        text: Hardware
-      - href: content/Field_methods.qmd
-        text: Field Methods
       - href: content/Software.qmd
         text: Software
 
