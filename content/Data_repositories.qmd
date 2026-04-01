@@ -3,7 +3,8 @@ title: "Data types"
 format: html
 ---
 
-Data sources used for our research:
-- DNA samples
-- Observer data
-- Social data
+Data sources used for our research
+
+# DNA samples
+# Observer data
+# Social data
