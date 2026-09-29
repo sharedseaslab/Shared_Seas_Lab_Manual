@@ -1,35 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://sharedseaslab.github.io/Shared_Seas_Lab_Manual/content/Handbook.html</loc>
-    <lastmod>2026-09-14T20:02:03.982Z</lastmod>
-  </url>
-  <url>
-    <loc>https://sharedseaslab.github.io/Shared_Seas_Lab_Manual/content/Data_repositories.html</loc>
-    <lastmod>2026-09-14T20:02:03.982Z</lastmod>
-  </url>
-  <url>
-    <loc>https://sharedseaslab.github.io/Shared_Seas_Lab_Manual/content/Field_methods.html</loc>
-    <lastmod>2026-09-14T20:02:03.982Z</lastmod>
-  </url>
-  <url>
-    <loc>https://sharedseaslab.github.io/Shared_Seas_Lab_Manual/content/Software.html</loc>
-    <lastmod>2026-09-14T20:02:03.991Z</lastmod>
-  </url>
-  <url>
-    <loc>https://sharedseaslab.github.io/Shared_Seas_Lab_Manual/index.html</loc>
-    <lastmod>2026-09-14T20:02:04.000Z</lastmod>
-  </url>
-  <url>
     <loc>https://sharedseaslab.github.io/Shared_Seas_Lab_Manual/content/Hardware.html</loc>
-    <lastmod>2026-09-14T20:02:03.982Z</lastmod>
+    <lastmod>2026-09-29T15:46:02.357Z</lastmod>
   </url>
   <url>
     <loc>https://sharedseaslab.github.io/Shared_Seas_Lab_Manual/content/Species_interest.html</loc>
-    <lastmod>2026-09-14T20:02:03.991Z</lastmod>
+    <lastmod>2026-09-29T15:46:02.367Z</lastmod>
+  </url>
+  <url>
+    <loc>https://sharedseaslab.github.io/Shared_Seas_Lab_Manual/content/Data_repositories.html</loc>
+    <lastmod>2026-09-29T15:46:02.357Z</lastmod>
+  </url>
+  <url>
+    <loc>https://sharedseaslab.github.io/Shared_Seas_Lab_Manual/content/Handbook.html</loc>
+    <lastmod>2026-09-29T15:46:02.357Z</lastmod>
+  </url>
+  <url>
+    <loc>https://sharedseaslab.github.io/Shared_Seas_Lab_Manual/index.html</loc>
+    <lastmod>2026-09-29T15:46:02.384Z</lastmod>
   </url>
   <url>
     <loc>https://sharedseaslab.github.io/Shared_Seas_Lab_Manual/content/Shared Seas Lab Handbook.docx.html</loc>
-    <lastmod>2026-09-14T20:02:03.991Z</lastmod>
+    <lastmod>2026-09-29T15:46:02.367Z</lastmod>
+  </url>
+  <url>
+    <loc>https://sharedseaslab.github.io/Shared_Seas_Lab_Manual/content/Software.html</loc>
+    <lastmod>2026-09-29T15:46:02.367Z</lastmod>
+  </url>
+  <url>
+    <loc>https://sharedseaslab.github.io/Shared_Seas_Lab_Manual/content/Field_methods.html</loc>
+    <lastmod>2026-09-29T15:46:02.357Z</lastmod>
   </url>
 </urlset>
